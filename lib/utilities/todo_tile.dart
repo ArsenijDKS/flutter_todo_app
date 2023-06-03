@@ -33,7 +33,9 @@ class ToDoTile extends StatelessWidget {
           child: Container(
             padding: EdgeInsets.all(25.0),
             decoration: BoxDecoration(
-                color: Colors.green, borderRadius: BorderRadius.circular(10)),
+              color: Colors.green,
+              borderRadius: BorderRadius.circular(10),
+            ),
             child: Row(
               children: [
                 // Checkbox
