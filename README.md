@@ -1,16 +1,22 @@
 # flutter_todo_app
 
-A new Flutter project.
+ToDo app - Dart&Flutter
+____
+  
+## Description
+  
+ToDO app on Flutter.<br>
+Using Hive Database<br>
+App development was based on Youtube tutorials from Mitch Koko.
+____
 
-## Getting Started
+## Technologies & Languages
 
-This project is a starting point for a Flutter application.
+<img src="img\Flutter_logo.png" width=12% height=12% alt="flutter"> <img src="img\Dart_logo.png" width=12% height=12% alt="flutter"> <img src="img\Hive_logo.png" width=12% height=12% alt="flutter"> 
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+____
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots & Video 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="img\Screenshot_2.png" width=20% height=20% alt="Screenshot_2"> <img src="img\Screenshot_3.png" width=20% height=20% alt="Screenshot_3"> <img src="img\Habit_tracker_video.gif" width=20% height=20% alt="Habit_tracker_video">
